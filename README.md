@@ -1,4 +1,4 @@
-# VeriYapilariveAlrogitmalar
+# VeriYapilariveAlgoritmalar
  ## Proje 1
 <hr>
 
