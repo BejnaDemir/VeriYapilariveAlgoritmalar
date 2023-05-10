@@ -60,14 +60,15 @@ B) Big-O gösterimini yazınız.
 9, 8'in sağına eklenir.<br>
 4, 3'ün sağına eklenir.<br>
 2, 1'in sağına eklenir.<br>
-        7
-       / \
-      5   8
-     / \   \
-    1   6   9
-   / \     
-  0   3    
-     / \
-    2   4  
+   <hr>
+        &nbsp; 7 <br>
+       / &nbsp; \ <br>
+      5  &nbsp; &nbsp; &nbsp;  8 <br>
+     / \ &nbsp;  &nbsp; &nbsp;  \ <br>
+    1 &nbsp;   6 &nbsp; &nbsp;   9 <br>
+   / \   &nbsp; &nbsp;   <br> 
+  0 &nbsp; 3  &nbsp;  <br> 
+   &nbsp;&nbsp;    / &nbsp; \ <br>
+ &nbsp;  &nbsp;   2  &nbsp;  4  <br>
 
 
