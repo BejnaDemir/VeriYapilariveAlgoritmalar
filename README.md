@@ -1,5 +1,5 @@
 # VeriYapilariveAlgoritmalar
- ## Proje 1
+ # Proje 1
 <hr>
 
 ### A: Selection sort aşamaları: [22,27,16,2,18,6] -> Insertion Sort
