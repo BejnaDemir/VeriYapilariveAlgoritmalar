@@ -48,7 +48,26 @@ B) Big-O gösterimini yazınız.
    Big-0= o (nlogn) <br>
    <hr>
    
-   # PROJE 3
-   
+   # PROJE 3 
+   ### [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+   Root 7'dir. <br>
+5, soluna eklenir. <br>
+1, soluna eklenir.<br>
+8, sağına eklenir.<br>
+3, 5'in soluna eklenir.<br>
+6, 5'in sağına eklenir.<br>
+0, 1'in soluna eklenir.<br>
+9, 8'in sağına eklenir.<br>
+4, 3'ün sağına eklenir.<br>
+2, 1'in sağına eklenir.<br>
+        7
+       / \
+      5   8
+     / \   \
+    1   6   9
+   / \     
+  0   3    
+     / \
+    2   4  
 
 
