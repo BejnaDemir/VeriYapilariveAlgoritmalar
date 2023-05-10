@@ -1,5 +1,5 @@
 # VeriYapilariveAlgoritmalar
- # Proje 1
+ # PROJE 1
 <hr>
 
 ### A: Selection sort aşamaları: [22,27,16,2,18,6] -> Insertion Sort
@@ -25,8 +25,27 @@
  <li> [2,3,4,8,7,9,5,15,6] 
  <li> [2,3,4,5,7,9,8,15,6] 
   <li> [2,3,4,5,6,9,8,15,7] 
- 
+ <hr>
+   
+   # PROJE 2
+ ### [16,21,11,8,12,22] -> Merge Sort
 
+A) Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
+B) Big-O gösterimini yazınız.
+   <br>
+ A) <ol> <li>  [16, 21, 11] ve [8, 12, 22]
+ <li> [16, 21, 11] -> [16], [21, 11] -> [21], [11]
+ <li> [8, 12, 22] -> [8], [12, 22] -> [12], [22]
+ <li> [16] [11, 21] -> [11, 16, 21]
+ <li> [8] [12, 22] -> [8, 12, 22]
+ <li> [11, 16, 21] ve [8, 12, 22] -> [8, 11, 12, 16, 21, 22]
+  <li> [8, 11, 12, 16, 21] - Sonuç
 
+  <br>
+ B)   2x=n <br>
+   X=logn <br>
+   Big-0= o (nlogn) <br>
+   <hr>
+   # PROJE 3
 
 
