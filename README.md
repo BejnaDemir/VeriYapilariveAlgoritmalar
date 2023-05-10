@@ -33,19 +33,22 @@
 A) Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 B) Big-O gösterimini yazınız.
    <br>
- A) <ol> <li>  [16, 21, 11] ve [8, 12, 22]
+ A) <br>
+   <ol> <li>  [16, 21, 11] ve [8, 12, 22]
  <li> [16, 21, 11] -> [16], [21, 11] -> [21], [11]
  <li> [8, 12, 22] -> [8], [12, 22] -> [12], [22]
  <li> [16] [11, 21] -> [11, 16, 21]
  <li> [8] [12, 22] -> [8, 12, 22]
  <li> [11, 16, 21] ve [8, 12, 22] -> [8, 11, 12, 16, 21, 22]
   <li> [8, 11, 12, 16, 21] - Sonuç
-
-  <br>
- B)   2x=n <br>
+<hr>
+ B) <br>
+   2x=n <br>
    X=logn <br>
    Big-0= o (nlogn) <br>
    <hr>
+   
    # PROJE 3
+   
 
 
